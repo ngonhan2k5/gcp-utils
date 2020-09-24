@@ -1,2 +1,1 @@
-- create authen.json using https://console.developers.google.com/apis/api/compute
-- https://cloud.google.com/docs/authentication/getting-started#command-line
+- To allow app access cloud resources, create access authen.json using https://cloud.google.com/docs/authentication/getting-started#cloud-console
