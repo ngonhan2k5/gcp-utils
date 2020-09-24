@@ -1,0 +1,2 @@
+- create authen.json using https://console.developers.google.com/apis/api/compute
+- https://cloud.google.com/docs/authentication/getting-started#command-line
